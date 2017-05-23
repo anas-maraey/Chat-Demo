@@ -10,4 +10,4 @@ Chat-Demo is a Real Time chat room, Users can Send Messages, See previous messag
 * [Pusher](https://pusher.com/docs) - API for realtime bi-directional functionality via WebSockets 
 
 ## Author
-* **Anas Ahmed**- [anas-marrey](https://github.com/anas-marrey)
+* [anas-marrey](https://github.com/anas-marrey)
